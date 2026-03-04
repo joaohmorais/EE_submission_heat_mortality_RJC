@@ -1,0 +1,304 @@
+data,descricao,abrangencia
+2010-01-01,Ano Novo,NACIONAL
+2010-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2010-02-15,Segunda de Carnaval,FACULTATIVO
+2010-02-16,Carnaval,ESTADUAL
+2010-02-17,Quarta Feira de Cinzas,FACULTATIVO
+2010-04-02,Sexta-Feira Santa,NACIONAL
+2010-04-21,Dia de Tiradentes,NACIONAL
+2010-04-23,Dia de São Jorge,ESTADUAL
+2010-05-01,Dia do Trabalho,NACIONAL
+2010-06-03,Corpus Christi,FACULTATIVO
+2010-09-07,Independência do Brasil,NACIONAL
+2010-10-12,Nossa Senhora Aparecida,NACIONAL
+2010-10-28,Dia do Servidor Público,FACULTATIVO
+2010-11-02,Dia de Finados,NACIONAL
+2010-11-15,Proclamação da República,NACIONAL
+2010-11-20,Dia da Consciência Negra,ESTADUAL
+2010-12-25,Natal,NACIONAL
+2010-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2011-01-01,Ano Novo,NACIONAL
+2011-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2011-03-07,Segunda de Carnaval,FACULTATIVO
+2011-03-08,Carnaval,ESTADUAL
+2011-03-09,Quarta Feira de Cinzas,FACULTATIVO
+2011-04-21,Dia de Tiradentes,NACIONAL
+2011-04-22,Sexta-Feira Santa,NACIONAL
+2011-04-23,Dia de São Jorge,ESTADUAL
+2011-05-01,Dia do Trabalho,NACIONAL
+2011-06-23,Corpus Christi,FACULTATIVO
+2011-09-07,Independência do Brasil,NACIONAL
+2011-10-12,Nossa Senhora Aparecida,NACIONAL
+2011-10-28,Dia do Servidor Público,FACULTATIVO
+2011-11-02,Dia de Finados,NACIONAL
+2011-11-15,Proclamação da República,NACIONAL
+2011-11-20,Dia da Consciência Negra,ESTADUAL
+2011-12-25,Natal,NACIONAL
+2011-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2012-01-01,Ano Novo,NACIONAL
+2012-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2012-02-20,Segunda de Carnaval,FACULTATIVO
+2012-02-21,Carnaval,ESTADUAL
+2012-02-22,Quarta Feira de Cinzas,FACULTATIVO
+2012-04-06,Sexta-Feira Santa,NACIONAL
+2012-04-21,Dia de Tiradentes,NACIONAL
+2012-04-23,Dia de São Jorge,ESTADUAL
+2012-05-01,Dia do Trabalho,NACIONAL
+2012-06-07,Corpus Christi,FACULTATIVO
+2012-09-07,Independência do Brasil,NACIONAL
+2012-10-12,Nossa Senhora Aparecida,NACIONAL
+2012-10-28,Dia do Servidor Público,FACULTATIVO
+2012-11-02,Dia de Finados,NACIONAL
+2012-11-15,Proclamação da República,NACIONAL
+2012-11-20,Dia da Consciência Negra,ESTADUAL
+2012-12-25,Natal,NACIONAL
+2012-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2013-01-01,Ano Novo,NACIONAL
+2013-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2013-02-11,Segunda de Carnaval,FACULTATIVO
+2013-02-12,Carnaval,ESTADUAL
+2013-02-13,Quarta Feira de Cinzas,FACULTATIVO
+2013-03-29,Sexta-Feira Santa,NACIONAL
+2013-04-21,Dia de Tiradentes,NACIONAL
+2013-04-23,Dia de São Jorge,ESTADUAL
+2013-05-01,Dia do Trabalho,NACIONAL
+2013-05-30,Corpus Christi,FACULTATIVO
+2013-09-07,Independência do Brasil,NACIONAL
+2013-10-12,Nossa Senhora Aparecida,NACIONAL
+2013-10-28,Dia do Servidor Público,FACULTATIVO
+2013-11-02,Dia de Finados,NACIONAL
+2013-11-15,Proclamação da República,NACIONAL
+2013-11-20,Dia da Consciência Negra,ESTADUAL
+2013-12-25,Natal,NACIONAL
+2013-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2014-01-01,Ano Novo,NACIONAL
+2014-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2014-03-03,Segunda de Carnaval,FACULTATIVO
+2014-03-04,Carnaval,ESTADUAL
+2014-03-05,Quarta Feira de Cinzas,FACULTATIVO
+2014-04-18,Sexta-Feira Santa,NACIONAL
+2014-04-21,Dia de Tiradentes,NACIONAL
+2014-04-23,Dia de São Jorge,ESTADUAL
+2014-05-01,Dia do Trabalho,NACIONAL
+2014-06-19,Corpus Christi,FACULTATIVO
+2014-09-07,Independência do Brasil,NACIONAL
+2014-10-12,Nossa Senhora Aparecida,NACIONAL
+2014-10-28,Dia do Servidor Público,FACULTATIVO
+2014-11-02,Dia de Finados,NACIONAL
+2014-11-15,Proclamação da República,NACIONAL
+2014-11-20,Dia da Consciência Negra,ESTADUAL
+2014-12-25,Natal,NACIONAL
+2014-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2015-01-01,Ano Novo,NACIONAL
+2015-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2015-02-16,Segunda de Carnaval,FACULTATIVO
+2015-02-17,Carnaval,ESTADUAL
+2015-02-18,Quarta Feira de Cinzas,FACULTATIVO
+2015-04-03,Sexta-Feira Santa,NACIONAL
+2015-04-21,Dia de Tiradentes,NACIONAL
+2015-04-23,Dia de São Jorge,ESTADUAL
+2015-05-01,Dia do Trabalho,NACIONAL
+2015-06-04,Corpus Christi,FACULTATIVO
+2015-09-07,Independência do Brasil,NACIONAL
+2015-10-12,Nossa Senhora Aparecida,NACIONAL
+2015-10-28,Dia do Servidor Público,FACULTATIVO
+2015-11-02,Dia de Finados,NACIONAL
+2015-11-15,Proclamação da República,NACIONAL
+2015-11-20,Dia da Consciência Negra,ESTADUAL
+2015-12-25,Natal,NACIONAL
+2015-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2016-01-01,Ano Novo,NACIONAL
+2016-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2016-02-08,Segunda de Carnaval,FACULTATIVO
+2016-02-09,Carnaval,ESTADUAL
+2016-02-10,Quarta Feira de Cinzas,FACULTATIVO
+2016-03-25,Sexta-Feira Santa,NACIONAL
+2016-04-21,Dia de Tiradentes,NACIONAL
+2016-04-23,Dia de São Jorge,ESTADUAL
+2016-05-01,Dia do Trabalho,NACIONAL
+2016-05-26,Corpus Christi,FACULTATIVO
+2016-09-07,Independência do Brasil,NACIONAL
+2016-10-12,Nossa Senhora Aparecida,NACIONAL
+2016-10-28,Dia do Servidor Público,FACULTATIVO
+2016-11-02,Dia de Finados,NACIONAL
+2016-11-15,Proclamação da República,NACIONAL
+2016-11-20,Dia da Consciência Negra,ESTADUAL
+2016-12-25,Natal,NACIONAL
+2016-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2017-01-01,Ano Novo,NACIONAL
+2017-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2017-02-27,Segunda de Carnaval,FACULTATIVO
+2017-02-28,Carnaval,ESTADUAL
+2017-03-01,Quarta Feira de Cinzas,FACULTATIVO
+2017-04-14,Sexta-Feira Santa,NACIONAL
+2017-04-21,Dia de Tiradentes,NACIONAL
+2017-04-23,Dia de São Jorge,ESTADUAL
+2017-05-01,Dia do Trabalho,NACIONAL
+2017-06-15,Corpus Christi,FACULTATIVO
+2017-09-07,Independência do Brasil,NACIONAL
+2017-10-12,Nossa Senhora Aparecida,NACIONAL
+2017-10-28,Dia do Servidor Público,FACULTATIVO
+2017-11-02,Dia de Finados,NACIONAL
+2017-11-15,Proclamação da República,NACIONAL
+2017-11-20,Dia da Consciência Negra,ESTADUAL
+2017-12-25,Natal,NACIONAL
+2017-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2018-01-01,Ano Novo,NACIONAL
+2018-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2018-02-12,Segunda de Carnaval,FACULTATIVO
+2018-02-13,Carnaval,ESTADUAL
+2018-02-14,Quarta Feira de Cinzas,FACULTATIVO
+2018-03-30,Sexta-Feira Santa,NACIONAL
+2018-04-21,Dia de Tiradentes,NACIONAL
+2018-04-23,Dia de São Jorge,ESTADUAL
+2018-05-01,Dia do Trabalho,NACIONAL
+2018-05-31,Corpus Christi,FACULTATIVO
+2018-09-07,Independência do Brasil,NACIONAL
+2018-10-12,Nossa Senhora Aparecida,NACIONAL
+2018-10-28,Dia do Servidor Público,FACULTATIVO
+2018-11-02,Dia de Finados,NACIONAL
+2018-11-15,Proclamação da República,NACIONAL
+2018-11-20,Dia da Consciência Negra,ESTADUAL
+2018-12-25,Natal,NACIONAL
+2018-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2019-01-01,Ano Novo,NACIONAL
+2019-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2019-03-04,Segunda de Carnaval,FACULTATIVO
+2019-03-05,Carnaval,ESTADUAL
+2019-03-06,Quarta Feira de Cinzas,FACULTATIVO
+2019-04-19,Sexta-Feira Santa,NACIONAL
+2019-04-21,Dia de Tiradentes,NACIONAL
+2019-04-23,Dia de São Jorge,ESTADUAL
+2019-05-01,Dia do Trabalho,NACIONAL
+2019-06-20,Corpus Christi,FACULTATIVO
+2019-09-07,Independência do Brasil,NACIONAL
+2019-10-12,Nossa Senhora Aparecida,NACIONAL
+2019-10-28,Dia do Servidor Público,FACULTATIVO
+2019-11-02,Dia de Finados,NACIONAL
+2019-11-15,Proclamação da República,NACIONAL
+2019-11-20,Dia da Consciência Negra,ESTADUAL
+2019-12-25,Natal,NACIONAL
+2019-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2020-01-01,Ano Novo,NACIONAL
+2020-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2020-02-24,Segunda de Carnaval,FACULTATIVO
+2020-02-25,Carnaval,ESTADUAL
+2020-02-26,Quarta Feira de Cinzas,FACULTATIVO
+2020-04-10,Sexta-Feira Santa,NACIONAL
+2020-04-21,Dia de Tiradentes,NACIONAL
+2020-04-23,Dia de São Jorge,ESTADUAL
+2020-05-01,Dia do Trabalho,NACIONAL
+2020-06-11,Corpus Christi,FACULTATIVO
+2020-09-07,Independência do Brasil,NACIONAL
+2020-10-12,Nossa Senhora Aparecida,NACIONAL
+2020-10-28,Dia do Servidor Público,FACULTATIVO
+2020-11-02,Dia de Finados,NACIONAL
+2020-11-15,Proclamação da República,NACIONAL
+2020-11-20,Dia da Consciência Negra,ESTADUAL
+2020-12-25,Natal,NACIONAL
+2020-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2021-01-01,Ano Novo,NACIONAL
+2021-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2021-02-15,Segunda de Carnaval,FACULTATIVO
+2021-02-16,Carnaval,ESTADUAL
+2021-02-17,Quarta Feira de Cinzas,FACULTATIVO
+2021-04-02,Sexta-Feira Santa,NACIONAL
+2021-04-21,Dia de Tiradentes,NACIONAL
+2021-04-23,Dia de São Jorge,ESTADUAL
+2021-05-01,Dia do Trabalho,NACIONAL
+2021-06-03,Corpus Christi,FACULTATIVO
+2021-09-07,Independência do Brasil,NACIONAL
+2021-10-12,Nossa Senhora Aparecida,NACIONAL
+2021-10-28,Dia do Servidor Público,FACULTATIVO
+2021-11-02,Dia de Finados,NACIONAL
+2021-11-15,Proclamação da República,NACIONAL
+2021-11-20,Dia da Consciência Negra,ESTADUAL
+2021-12-25,Natal,NACIONAL
+2021-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2022-01-01,Ano Novo,NACIONAL
+2022-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2022-02-28,Segunda de Carnaval,FACULTATIVO
+2022-03-01,Carnaval,ESTADUAL
+2022-03-02,Quarta Feira de Cinzas,FACULTATIVO
+2022-04-15,Sexta-Feira Santa,NACIONAL
+2022-04-21,Dia de Tiradentes,NACIONAL
+2022-04-23,Dia de São Jorge,ESTADUAL
+2022-05-01,Dia do Trabalho,NACIONAL
+2022-06-16,Corpus Christi,FACULTATIVO
+2022-09-07,Independência do Brasil,NACIONAL
+2022-10-12,Nossa Senhora Aparecida,NACIONAL
+2022-10-28,Dia do Servidor Público,FACULTATIVO
+2022-11-02,Dia de Finados,NACIONAL
+2022-11-15,Proclamação da República,NACIONAL
+2022-11-20,Dia da Consciência Negra,ESTADUAL
+2022-12-25,Natal,NACIONAL
+2022-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2023-01-01,Ano Novo,NACIONAL
+2023-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2023-02-20,Segunda de Carnaval,FACULTATIVO
+2023-02-21,Carnaval,ESTADUAL
+2023-02-22,Quarta Feira de Cinzas,FACULTATIVO
+2023-04-07,Sexta-Feira Santa,NACIONAL
+2023-04-21,Dia de Tiradentes,NACIONAL
+2023-04-23,Dia de São Jorge,ESTADUAL
+2023-05-01,Dia do Trabalho,NACIONAL
+2023-06-08,Corpus Christi,FACULTATIVO
+2023-09-07,Independência do Brasil,NACIONAL
+2023-10-12,Nossa Senhora Aparecida,NACIONAL
+2023-10-28,Dia do Servidor Público,FACULTATIVO
+2023-11-02,Dia de Finados,NACIONAL
+2023-11-15,Proclamação da República,NACIONAL
+2023-11-20,Dia da Consciência Negra,ESTADUAL
+2023-12-25,Natal,NACIONAL
+2023-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2024-01-01,Ano Novo,NACIONAL
+2024-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2024-02-12,Segunda de Carnaval,FACULTATIVO
+2024-02-13,Carnaval,ESTADUAL
+2024-02-14,Quarta Feira de Cinzas,FACULTATIVO
+2024-03-29,Sexta-Feira Santa,NACIONAL
+2024-04-21,Dia de Tiradentes,NACIONAL
+2024-04-23,Dia de São Jorge,ESTADUAL
+2024-05-01,Dia do Trabalho,NACIONAL
+2024-05-30,Corpus Christi,FACULTATIVO
+2024-09-07,Independência do Brasil,NACIONAL
+2024-10-12,Nossa Senhora Aparecida,NACIONAL
+2024-10-28,Dia do Servidor Público,FACULTATIVO
+2024-11-02,Dia de Finados,NACIONAL
+2024-11-15,Proclamação da República,NACIONAL
+2024-11-20,Dia da Consciência Negra,ESTADUAL
+2024-12-25,Natal,NACIONAL
+2024-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2025-01-01,Ano Novo,NACIONAL
+2025-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2025-03-03,Segunda de Carnaval,FACULTATIVO
+2025-03-04,Carnaval,ESTADUAL
+2025-03-05,Quarta Feira de Cinzas,FACULTATIVO
+2025-04-18,Sexta-Feira Santa,NACIONAL
+2025-04-21,Dia de Tiradentes,NACIONAL
+2025-04-23,Dia de São Jorge,ESTADUAL
+2025-05-01,Dia do Trabalho,NACIONAL
+2025-06-19,Corpus Christi,FACULTATIVO
+2025-09-07,Independência do Brasil,NACIONAL
+2025-10-12,Nossa Senhora Aparecida,NACIONAL
+2025-10-28,Dia do Servidor Público,FACULTATIVO
+2025-11-02,Dia de Finados,NACIONAL
+2025-11-15,Proclamação da República,NACIONAL
+2025-11-20,Consciência Negra,NACIONAL
+2025-11-20,Dia da Consciência Negra,ESTADUAL
+2025-12-25,Natal,NACIONAL
+2025-12-31,"Após o meio-dia, Véspera de Ano Novo",FACULTATIVO
+2026-01-01,Ano Novo,NACIONAL
+2026-01-20,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL
+2026-03-04,Carnaval,ESTADUAL
+2026-04-03,Sexta-Feira Santa,NACIONAL
+2026-04-21,Dia de Tiradentes,NACIONAL
+2026-04-23,Dia de São Jorge,MUNICIPAL
+2026-05-01,Dia do Trabalho,NACIONAL
+2026-09-07,Independência do Brasil,NACIONAL
+2026-10-12,Nossa Senhora Aparecida,NACIONAL
+2026-11-02,Dia de Finados,NACIONAL
+2026-11-15,Proclamação da República,NACIONAL
+2026-11-20,Consciência Negra,NACIONAL
+2026-11-20,Consciência Negra,NACIONAL
+2026-12-25,Natal,NACIONAL
