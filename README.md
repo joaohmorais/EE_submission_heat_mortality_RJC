@@ -1,5 +1,7 @@
 # Cause-specific heat-related mortality in Rio de Janeiro city: comparing exposure metrics and the role of exposure duration
 
+[![Published article](https://img.shields.io/badge/Published%20article-DOI-blue?logo=doi)](https://doi.org/10.1097/EE9.0000000000000473)
+
 João Henrique de Araujo Morais, Valeria Saraceni, Caroline Dias Ferreira, Débora Medeiros de Oliveira e Cruz, Gislani Mateus Aguilar, Oswaldo Gonçalves Cruz.
 
 - `00_aux_functions.R` includes common functions used throughout the analysis in the study.
